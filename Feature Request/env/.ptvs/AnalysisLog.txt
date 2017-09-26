@@ -5547,3 +5547,11 @@ System.FormatException: Input string was not in a correct format.
 2017-09-07T22:07:20: Deleting 2 files
 2017-09-07T22:07:20: Deleting "F:\CODE\Feature Request\env\.ptvs\_dummy_threading.idb"
 2017-09-07T22:07:20: Deleting "F:\CODE\Feature Request\env\.ptvs\_dummy__threading_local.idb"
+
+2017-09-18T12:58:54: Start analysis
+2017-09-18T12:58:54: IncludeModulesFromModulePath = win32com
+2017-09-18T12:58:54: Deleting 0 files
+
+2017-09-25T21:42:03: Start analysis
+2017-09-25T21:42:03: IncludeModulesFromModulePath = win32com
+2017-09-25T21:42:03: Deleting 0 files
